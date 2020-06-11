@@ -1,2 +1,3 @@
 This account for gb03 has now been deprecated. The purpose of forking this was 
-to study django rest framework more in depth. 
+to study django rest framework more in depth. Next you must exoplore flask and django before moving 
+over to java. 
